@@ -1,6 +1,6 @@
 # Automated-EQ
 
-BE Project Code dump
+BE Project Code files
 
 ## A little note
 
